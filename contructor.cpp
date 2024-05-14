@@ -9,7 +9,6 @@ class mahasiswa{
 
         void setID();
 
-       
-
+        void printAll();
 
 };
