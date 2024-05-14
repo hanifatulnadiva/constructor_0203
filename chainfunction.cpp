@@ -13,4 +13,4 @@ class buku{
         {
             return this->judul;
         }
-};
+} bukunya;
