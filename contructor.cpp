@@ -20,3 +20,9 @@ class mahasiswa{
 };
 
 int mahasiswa:: nim = 203;
+
+void mahasiswa::setID()
+{
+    id= ++nim;
+}
+
